@@ -21,7 +21,7 @@ import lombok.extern.slf4j.Slf4j;
  * 
  * @API It has a method accountSummary which will find all the accountNumbers
  *      and last five transactions.
- * @author Yogananda
+ * @author YoganandaReddy
  */
 
 @RestController
